@@ -1,0 +1,18 @@
+meta {
+  name: teste-cancela-consulta
+  type: http
+  seq: 5
+}
+
+post {
+  url: http://127.0.0.1:8080/a/Clínica da Saúde/cancelar?paciente=80696329268&medico=212986561&data=2024-07-31&hora=12:30:00
+  body: none
+  auth: none
+}
+
+query {
+  paciente: 80696329268
+  medico: 212986561
+  data: 2024-07-31
+  hora: 12:30:00
+}
