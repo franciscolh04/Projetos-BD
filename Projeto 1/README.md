@@ -1,8 +1,8 @@
 ## ER Modeling:
-6,78/9
+6.78/9
 
 ## ER-Relational Conversion:
-4,66/5
+4.66/5
 
 ## Relational Algebra:
 3/3
